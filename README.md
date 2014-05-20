@@ -15,3 +15,5 @@ This application modifies the appearance and size of a chosen image. It was comp
 * Process for replicating dither for colour / black and white printer
 * Convert to RGB
 * Convert to Web Safe colours
+
+![screenshot from 2014-05-20 13 35 36](https://cloud.githubusercontent.com/assets/1024596/3026863/51057df0-e01b-11e3-8218-44246807bbd9.png)
